@@ -1,0 +1,12 @@
+{
+    "name": "anomatopeya/calculator",
+    "description": "You can create the to-do-list of your task.",
+    "authors": [
+        {
+            "name": "Anomatopeya",
+            "email": "Anomatopeya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
