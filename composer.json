@@ -7,7 +7,7 @@
     ],
     "type": "library",
     "license": "MIT",
-    "description": "You can create the to-do-list of your task.",
+    "description": "Normal description tyta",
     "minimum-stability": "stable",
     "name": "anomatopeya/calculator",
     "autoload": {
